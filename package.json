@@ -7,6 +7,11 @@
     "phaser",
     "mastermind"
   ],
+  "scripts": {
+    "start": "grunt",
+    "build": "grunt build",
+    "test": "grunt test"
+  },
   "dependencies": {
     "phaser": "^2.6.1"
   },
